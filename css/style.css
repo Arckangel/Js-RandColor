@@ -1,0 +1,20 @@
+.global{
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.saisie{
+  margin-bottom: 5px;
+}
+
+#tableau td{
+  height: 25px;
+  width: 25px;
+  text-align: center;
+  transition-duration: 0.5s;
+}
+
+.bouton{
+  margin-top: 5px;
+}
